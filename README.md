@@ -1,2 +1,0 @@
-# bitts
-bits (calculator)
