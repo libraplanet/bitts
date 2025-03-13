@@ -1,6 +1,8 @@
-# Bit Calculator (Bits)
+# Bit Calculator (Bitts)
 
 **This application is not developed by Nintendo.**
+
+Base converter with unofficial mario."
 
 ## Copyright Notice
 
