@@ -4,8 +4,8 @@
   "description": "Base converter with unofficial mario.",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#333333",
+  "theme_color": "#ffffff",
   "icons": [
     {
       "src": "icon-192x192.png",
