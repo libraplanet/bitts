@@ -1,7 +1,7 @@
 {
-  "name": "bits (calculator)",
-  "short_name": "bits (calc)",
-  "description": "Unofficial mario calculator",
+  "name": "bitts (unofficial)",
+  "short_name": "bitts (unofficial)",
+  "description": "Base converter with unofficial mario.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
